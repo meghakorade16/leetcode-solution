@@ -1,6 +1,6 @@
-from _ast import List
 
 
+# Solution 1
 class Solution:
     def deccompressRLElist(nums):
         output = []
@@ -11,6 +11,7 @@ class Solution:
 
     deccompressRLElist([1, 2, 3, 4])
 
+# Solution 2
 # class Solution:
 #     def decompressRLElist(nums):
 #         output = []
